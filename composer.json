@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/swagger-generator",
+    "name": "yusuftogtay/swagger-generator",
     "description": "Swagger Generator for InfyOm Laravel Generator",
     "keywords": [
         "laravel",
@@ -8,19 +8,15 @@
         "generator"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
-        }
-    ],
+    "authors": [{
+        "name": "Mitul Golakiya",
+        "email": "me@mitul.me"
+    }],
     "require": {
         "php": ">=5.5.9"
     },
-    "funding": [
-        {
-            "type": "opencollective",
-            "url": "https://opencollective.com/infyomlabs"
-        }
-    ]
+    "funding": [{
+        "type": "opencollective",
+        "url": "https://opencollective.com/infyomlabs"
+    }]
 }
